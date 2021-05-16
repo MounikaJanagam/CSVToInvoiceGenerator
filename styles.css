@@ -1,0 +1,44 @@
+
+        #fileUpload
+        {
+            padding: 12px 50px;
+            border: none;
+            background-color: rgb(234, 196, 91);
+            cursor: pointer;
+        }
+        #upload
+        {
+            padding: 12px 50px;
+            border: none;
+            background-color: rgb(91,234,208);
+            cursor: pointer;
+            display: inline-block;
+        }
+        table {
+		  margin: 0 auto;
+		  text-align: center;
+		  border-collapse: collapse;
+		  border: 1px solid #d4d4d4;
+		  height: 500px; 
+		}
+		 
+		tr:nth-child(even) {
+		  background: #d4d4d4;
+		}
+		 
+		th, td {
+		  padding: 10px 30px;
+		}
+		 
+		th {
+		  border-bottom: 1px solid #d4d4d4;
+		}
+        button {
+      padding: 12px 50px;
+      border: none;
+      background-color: rgb(91,234,208);
+      color: #333;
+      cursor: pointer;
+      display: inline-block;
+     }
+    
